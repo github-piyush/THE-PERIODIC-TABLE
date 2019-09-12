@@ -22,7 +22,7 @@ cprintf("          \\  /\\  /  |--    |    |    |   | |  \\/  |  |--            
 cprintf("           \\/  \\/   |___   |___ |___ |___| |      |  |___    ");
 cout<<"\n\n\t\t\t\t\t               TO THE PERIODIC TABLE";
 cout<<"\n\n\n\n\n\n\n\n\n  A Project By:";
-cout<<"\n\n  Piyush Deshmukh \n  Subham John  \n  Ankit Xalxo";
+cout<<"\n\n\n\n";
 textcolor(i+34); // 34 white     //99          //34 blink 314254
 textbackground(i+12212);   //red 15   //110  //blue 12212  //10231 //3 //31425
 }
